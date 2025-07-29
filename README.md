@@ -12,4 +12,4 @@
 - UP ACM Algolypmics Website (2021): https://github.com/Aikiro42/algolympics-site-2021
 - SCALE Program Document Control Management System: https://github.com/Aikiro42/SCALE-DoCMa
 - PediaWrite Minimum Viable Product: https://github.com/Aikiro42/pediawrite-mvp
-- UP DCTID Website:
+- UP DCTID Website: https://github.com/ctid-department/dctid-website

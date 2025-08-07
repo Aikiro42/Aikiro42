@@ -1,41 +1,41 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-website/node_modules
-website/.pnp
-website/.pnp.*
-website/.yarn/*
-!website/.yarn/patches
-!website/.yarn/plugins
-!website/.yarn/releases
-!website/.yarn/versions
+aikiro42/node_modules
+aikiro42/.pnp
+aikiro42/.pnp.*
+aikiro42/.yarn/*
+!aikiro42/.yarn/patches
+!aikiro42/.yarn/plugins
+!aikiro42/.yarn/releases
+!aikiro42/.yarn/versions
 
 # testing
-website/coverage
+aikiro42/coverage
 
 # next.js
-website/.next/
-website/out/
+aikiro42/.next/
+aikiro42/out/
 
 # production
-website/build
+aikiro42/build
 
 # misc
-website/.DS_Store
-website/*.pem
+aikiro42/.DS_Store
+aikiro42/*.pem
 
 # debug
-website/npm-debug.log*
-website/yarn-debug.log*
-website/yarn-error.log*
-website/.pnpm-debug.log*
+aikiro42/npm-debug.log*
+aikiro42/yarn-debug.log*
+aikiro42/yarn-error.log*
+aikiro42/.pnpm-debug.log*
 
 # env files (can opt-in for committing if needed)
-website/.env*
+aikiro42/.env*
 
 # vercel
-website/.vercel
+aikiro42/.vercel
 
 # typescript
-website/*.tsbuildinfo
-website/next-env.d.ts
+aikiro42/*.tsbuildinfo
+aikiro42/next-env.d.ts

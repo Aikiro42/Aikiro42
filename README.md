@@ -4,6 +4,7 @@
 - Road to Vostok Mod Tester Batch Script: https://github.com/Aikiro42/rtv-mod-tester-cmd
 - Starbound Interpolating Camera: https://github.com/Aikiro42/starbound-interpolating-camera
 - RE: Project 42 - https://github.com/Aikiro42/re-project-42
+- E.X.I.T.: Extraction Interlink Terminal: https://github.com/Aikiro42/starbound-exit-tool
 
 ## Notable Repositories
 - Tala - Starbound Spear: https://github.com/Aikiro42/Tala
